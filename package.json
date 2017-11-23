@@ -1,0 +1,30 @@
+{
+  "name": "angular-playground",
+  "version": "1.0.0",
+  "description": "just wanna play angular js \u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[3~\u001b[\u001b[C\u001b[Cjs 1.6 onwards with nodejs express and perhaps add mongodb in the future",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RolandBarro/angularPlayGround.git"
+  },
+  "keywords": [
+    "angular",
+    "node",
+    "express",
+    "mongo"
+  ],
+  "author": "JammerCoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RolandBarro/angularPlayGround/issues"
+  },
+  "homepage": "https://github.com/RolandBarro/angularPlayGround#readme",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2"
+  }
+}
